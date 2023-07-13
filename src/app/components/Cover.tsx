@@ -8,7 +8,7 @@ export default function Cover(): JSX.Element {
         preload='auto'
         muted
       >
-        <source src='motivacion_deportiva_x.mp4' type='video/mp4' />
+        <source src='motivacion-deportiva.webm' type='video/mp4' />
       </video>
       <section className='relative z-[100] flex h-full w-full items-center justify-center'>
         <div className='flex flex-col gap-6'>
